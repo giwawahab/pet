@@ -8029,13 +8029,13 @@ h1, h2, h3, h4, h5,
   width: 100%;
   background: purple;
   background: purple;
-  background: -moz-linear-gradient(45deg, purple 0%, #00bd55 100%);
-  background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, #00bd55));
-  background: -webkit-linear-gradient(45deg, purple 0%, #00bd55 100%);
-  background: -o-linear-gradient(45deg, purple 0%, #00bd55 100%);
-  background: -ms-linear-gradient(45deg, purple 0%, #00bd55 100%);
-  background: linear-gradient(45deg, purple 0%, #00bd55 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='#00bd55', GradientType=1 ); }
+  background: -moz-linear-gradient(45deg, purple 0%, purple 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, purple));
+  background: -webkit-linear-gradient(45deg, purple 0%, purple 100%);
+  background: -o-linear-gradient(45deg, purple 0%, purple 100%);
+  background: -ms-linear-gradient(45deg, purple 0%, purple 100%);
+  background: linear-gradient(45deg, purple 0%, purple 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='purple', GradientType=1 ); }
   .wrap .phone {
     z-index: 1; }
     .wrap .phone span {
@@ -8255,13 +8255,13 @@ h1, h2, h3, h4, h5,
     .hero-wrap.hero-wrap-2 .overlay {
       opacity: .5;
       background: purple;
-      background: -moz-linear-gradient(45deg, purple 0%, #00bd55 100%);
-      background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, #00bd55));
-      background: -webkit-linear-gradient(45deg, purple 0%, #00bd55 100%);
-      background: -o-linear-gradient(45deg, purple 0%, #00bd55 100%);
-      background: -ms-linear-gradient(45deg, purple 0%, #00bd55 100%);
-      background: linear-gradient(45deg, purple 0%, #00bd55 100%);
-      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='#00bd55', GradientType=1 ); }
+      background: -moz-linear-gradient(45deg, purple 0%, purple 100%);
+      background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, purple));
+      background: -webkit-linear-gradient(45deg, purple 0%, purple 100%);
+      background: -o-linear-gradient(45deg, purple 0%, purple 100%);
+      background: -ms-linear-gradient(45deg, purple 0%, purple 100%);
+      background: linear-gradient(45deg, purple 0%, purple 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='purple', GradientType=1 ); }
     .hero-wrap.hero-wrap-2 .slider-text {
       height: 400px; }
       .hero-wrap.hero-wrap-2 .slider-text h1 {
@@ -8726,13 +8726,13 @@ h1, h2, h3, h4, h5,
         height: 30px;
         background: purple;
         background: purple;
-        background: -moz-linear-gradient(45deg, purple 0%, #00bd55 100%);
-        background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, #00bd55));
-        background: -webkit-linear-gradient(45deg, purple 0%, #00bd55 100%);
-        background: -o-linear-gradient(45deg, purple 0%, #00bd55 100%);
-        background: -ms-linear-gradient(45deg, purple 0%, #00bd55 100%);
-        background: linear-gradient(45deg, purple 0%, #00bd55 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='#00bd55', GradientType=1 );
+        background: -moz-linear-gradient(45deg, purple 0%, purple 100%);
+        background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, purple));
+        background: -webkit-linear-gradient(45deg, purple 0%, purple 100%);
+        background: -o-linear-gradient(45deg, purple 0%, purple 100%);
+        background: -ms-linear-gradient(45deg, purple 0%, purple 100%);
+        background: linear-gradient(45deg, purple 0%, purple 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='purple', GradientType=1 );
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
@@ -8928,13 +8928,13 @@ textarea.form-control {
     content: '';
     opacity: 1;
     background: purple;
-    background: -moz-linear-gradient(45deg, purple 0%, #00bd55 100%);
-    background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, #00bd55));
-    background: -webkit-linear-gradient(45deg, purple 0%, #00bd55 100%);
-    background: -o-linear-gradient(45deg, purple 0%, #00bd55 100%);
-    background: -ms-linear-gradient(45deg, purple 0%, #00bd55 100%);
-    background: linear-gradient(45deg, purple 0%, #00bd55 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='#00bd55', GradientType=1 ); }
+    background: -moz-linear-gradient(45deg, purple 0%, purple 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, purple), color-stop(100%, purple));
+    background: -webkit-linear-gradient(45deg, purple 0%, purple 100%);
+    background: -o-linear-gradient(45deg, purple 0%, purple 100%);
+    background: -ms-linear-gradient(45deg, purple 0%, purple 100%);
+    background: linear-gradient(45deg, purple 0%, purple 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='purple', endColorstr='purple', GradientType=1 ); }
     @media (min-width: 992px) {
       .ftco-appointment .overlay {
         width: 50%; } }
